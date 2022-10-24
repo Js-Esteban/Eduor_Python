@@ -243,8 +243,8 @@ ul#topnav li a:hover {
 	border: 0px;
 	color: #333;
 	font-size: 12px;
-	background: #abab83;
-	background: -moz-linear-gradient(top, #abab83 0%, #abab83 0%, #abab83 50%, #a1a172 51%, #a1a172 100%);
+	background: #284a86;
+	background: -moz-linear-gradient(top, #abab83 0%, #abab83 0%, #abab83 50%, #245d5b 51%, #a1a172 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, #abab83), color-stop(0%, #abab83), color-stop(50%, #abab83), color-stop(51%, #a1a172), color-stop(100%, #a1a172));
 	background: -webkit-linear-gradient(top, #abab83 0%, #abab83 0%, #abab83 50%, #a1a172 51%, #a1a172 100%);
 	background: -o-linear-gradient(top, #abab83 0%, #abab83 0%, #abab83 50%, #a1a172 51%, #a1a172 100%);
