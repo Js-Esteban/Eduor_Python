@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from AppEduor.views import index
+from AppEduor import views
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home/', index )
+    path('login', views.inicioSeccion ,name='iniciarseccion' ),
+
 ]
